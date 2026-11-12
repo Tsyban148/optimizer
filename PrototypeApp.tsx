@@ -1207,7 +1207,7 @@ export default function App() {
             `   • Відхилення (Detour): ${st.detour_miles} милі в один бік\n` +
             `   • Залишок при прибутті: ~${s.arrivalFuel} gal\n` +
             `   • ЗАЛИТИ ПАЛИВА: ${s.gallonsToPump} gal (до ${s.departureFuel} gal)\n` +
-            `   • Ціна Pava EFS: $${s.effectivePrice.toFixed(2)}/gal (Знижка -$${s.discount.toFixed(2)})\n` +
+            `   • Ціна Fleet EFS: $${s.effectivePrice.toFixed(2)}/gal (Знижка -$${s.discount.toFixed(2)})\n` +
             `   • Сума: ~$${s.stopCost.toFixed(2)}\n` +
             `   • 📍 Навігація: ${gmapsUrl}`
           );
@@ -1215,7 +1215,7 @@ export default function App() {
         .join("\n\n");
 
       return (
-        `🚛 PAVA LOGISTICS — ДИСПЕТЧЕРСЬКИЙ ПЛАН ПАЛИВА\n` +
+        `🚛 Fleet LOGISTICS — ДИСПЕТЧЕРСЬКИЙ ПЛАН ПАЛИВА\n` +
         `━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\n` +
         `🔹 Борт: ${activePresetObj.unit} (${activePresetObj.model})\n` +
         `🔹 Водій: ${activePresetObj.driver}\n` +
@@ -1253,7 +1253,7 @@ export default function App() {
         .join("\n\n");
 
       return (
-        `🚛 PAVA LOGISTICS — OFFICIAL FUEL DISPATCH ORDER\n` +
+        `🚛 Fleet LOGISTICS — OFFICIAL FUEL DISPATCH ORDER\n` +
         `━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\n` +
         `🔹 Unit: ${activePresetObj.unit} (${activePresetObj.model})\n` +
         `🔹 Driver: ${activePresetObj.driver}\n` +
@@ -1319,7 +1319,7 @@ export default function App() {
     const url = URL.createObjectURL(blob);
     const a = document.createElement("a");
     a.href = url;
-    a.download = "pava_fuel_card_audit_report.csv";
+    a.download = "Fleet_fuel_card_audit_report.csv";
     a.click();
     URL.revokeObjectURL(url);
   };
@@ -1374,7 +1374,7 @@ export default function App() {
               <div>
                 <div className="flex items-center gap-2">
                   <h1 className="text-lg font-bold tracking-tight text-slate-900 dark:text-white">
-                    Pava Fuel Optimizer & Audit
+                    Fleet Fuel Optimizer & Audit
                   </h1>
                   <span className="px-2 py-0.5 text-[11px] font-bold uppercase tracking-wider rounded-full bg-emerald-500/15 text-emerald-600 dark:text-emerald-400 border border-emerald-500/30">
                     Enterprise MVP

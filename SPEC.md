@@ -1,7 +1,7 @@
-# Project Specification: Pava Logistics Fuel Optimization & Audit System (MVP)
+# Project Specification: Fleet Logistics Fuel Optimization & Audit System (MVP)
 
 ## 1. System Overview & Existing Assets
-We are building a full-stack web SaaS platform for a US trucking company (Pava Logistics, Inc.) that:
+We are building a full-stack web SaaS platform for a US trucking company (Fleet Logistics, Inc.) that:
 1. Calculates optimal diesel refueling stops along a highway corridor using Dynamic Programming.
 2. Audits driver fuel card transactions (WEX / EFS CSV statements) against nearby station prices to detect financial losses ("Missed Savings").
 3. Dispatches formatted fuel plans to drivers via Telegram.
@@ -16,11 +16,11 @@ Do NOT rewrite the core math from scratch — integrate and adapt these existing
 ---
 
 ## 2. Target Tech Stack & Directory Structure
-- **Backend (`/backend`):** Python 3.11+, FastAPI, SQLAlchemy 2.0 (SQLite `pava_fuel.db` for local run, PostgreSQL-compatible), Pydantic v2, HTTPX, Python-Multipart.
+- **Backend (`/backend`):** Python 3.11+, FastAPI, SQLAlchemy 2.0 (SQLite `Fleet_fuel.db` for local run, PostgreSQL-compatible), Pydantic v2, HTTPX, Python-Multipart.
 - **Frontend (`/frontend`):** Vite, React 18, TypeScript, Tailwind CSS, React-Leaflet (OpenStreetMap), Lucide React.
 
 Target folder structure:
-pava-fuel-optimizer/
+Fleet-fuel-optimizer/
 ├── SPEC.md
 ├── stations_corridor_i80.json
 ├── wex_statement_sample.csv
