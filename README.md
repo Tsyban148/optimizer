@@ -38,11 +38,4 @@ An automated fleet fuel management, route cost optimization, and transaction aud
 
 ---
 
-##  Local Setup
 
-To run the frontend prototype locally:
-
-```bash
-cd frontend
-npm install
-npm run dev
