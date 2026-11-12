@@ -1,4 +1,4 @@
-# 🚛 Pava Fuel Optimizer & Audit (MVP)
+#  Pava Fuel Optimizer & Audit (MVP)
 
 **🔗 [Launch Interactive Live Demo](https://ТВОЄ_ПОСИЛАННЯ_З_VERCEL.vercel.app)**
 
@@ -6,11 +6,11 @@ An automated fleet fuel management, route cost optimization, and transaction aud
 
 ---
 
-## 🎯 Project Status: Interactive Frontend Prototype & Core Logic
+##  Project Status: Interactive Frontend Prototype & Core Logic
 
 > **Note for Reviewers:** The currently deployed web application is a **functional MVP prototype** operating in client-side simulation mode to demonstrate the UI/UX, dynamic programming fuel optimization engine, and WEX/EFS transaction audit workflows. Full-stack backend integration is actively in progress (see Roadmap below).
 
-### ✅ What is Currently Implemented & Testable:
+###  What is Currently Implemented & Testable:
 * **Dynamic Programming (DP) Fuel Stop Optimizer:** Calculates optimal refueling stops along the 1,000-mile Chicago, IL → Denver, CO corridor based on net discounted prices (EFS/WEX card rebates + state IFTA tax arbitrage), tank capacity, MPG, safety fuel floor, and out-of-route detour penalties.
 * **Interactive "Sawtooth" Fuel Trajectory:** Real-time SVG visualization of tank fuel levels, safety reserves, and exact gallon purchase recommendations per stop.
 * **Fleet Unit Presets:** Instant switching between different truck configurations (Freightliner Cascadia, Volvo VNL, Kenworth T680, Peterbilt 579, International LT) with unique MPG and tank capacities.
@@ -20,7 +20,7 @@ An automated fleet fuel management, route cost optimization, and transaction aud
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 * **Frontend:** React 19, TypeScript, Vite, Tailwind CSS, Lucide Icons
 * **Core Optimization & Data:** Python 3, Dynamic Programming (`optimizer_core.py`), JSON/CSV datasets
@@ -28,7 +28,7 @@ An automated fleet fuel management, route cost optimization, and transaction aud
 
 ---
 
-## 🗺️ Development Roadmap (Next Steps)
+##  Development Roadmap (Next Steps)
 
 - [x] **Phase 1: Core Algorithm & Data Modeling** — DP fuel optimization logic (`optimizer_core.py`) and realistic I-80 corridor station/WEX datasets.
 - [x] **Phase 2: Interactive Frontend MVP** — Real-time simulation dashboard, sawtooth fuel profile chart, and client-side CSV audit interface deployed on Vercel.
@@ -38,7 +38,7 @@ An automated fleet fuel management, route cost optimization, and transaction aud
 
 ---
 
-## 💻 Local Setup
+##  Local Setup
 
 To run the frontend prototype locally:
 
