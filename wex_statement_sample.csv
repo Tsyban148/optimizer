@@ -1,0 +1,51 @@
+transaction_id,timestamp,truck_unit,driver_name,station_id,station_name,mile_marker,gallons,actual_price_paid
+WEX-202611-1001,2026-11-01 08:47:00,TRK-101,Oleksandr Kovalenko,I80-ST-032,Love's - Exit 388 - Pleasant Dale / NE-103 (NE),521.0,117.12,3.14
+WEX-202611-1002,2026-11-01 17:06:00,TRK-102,Michael Miller,I80-ST-025,Sapp Bros - Exit 40 - Avoca / US-59 (IA),417.0,111.3,3.83
+WEX-202611-1003,2026-11-01 19:56:00,TRK-103,Carlos Rodriguez,I80-ST-010,Love's - Exit 4 - East Moline / IL-5 (IL),157.8,65.0,3.66
+WEX-202611-1004,2026-11-01 21:46:00,TRK-104,David Zimmerman,I80-ST-003,TA - Exit 122 - Morris / IL-47 (IL),39.5,108.76,4.03
+WEX-202611-1005,2026-11-01 21:51:00,TRK-105,Taras Shevchenko,I80-ST-028,TA - Exit 448 - Omaha / L Street (NE),462.5,105.59,3.07
+WEX-202611-1006,2026-11-01 22:13:00,TRK-106,Robert Kowalski,I80-ST-041,Pilot - Exit 177 - North Platte / US-83 (NE),733.0,68.25,3.74
+WEX-202611-1007,2026-11-01 22:53:00,TRK-107,Marcus Johnson,I80-ST-029,Petro - Exit 432 - Gretna / NE-31 (NE),478.0,89.9,3.43
+WEX-202611-1008,2026-11-02 00:48:00,TRK-108,Dmytro Bondarenko,I80-ST-045,Sapp Bros - Exit 59 - Sidney / NE-19 (NE),851.0,61.88,3.73
+WEX-202611-1009,2026-11-02 00:57:00,TRK-101,Oleksandr Kovalenko,I80-ST-022,Love's - Exit 93 - Stuart / County Rd P28 (IA),364.0,79.43,3.39
+WEX-202611-1010,2026-11-02 02:03:00,TRK-102,Michael Miller,I80-ST-006,Love's - Exit 77 - Peru / LaSalle / IL-251 (IL),84.2,83.5,3.91
+WEX-202611-1011,2026-11-02 04:07:00,TRK-103,Carlos Rodriguez,I80-ST-007,TA - Exit 56 - Princeton / IL-26 (IL),105.6,98.82,4.03
+WEX-202611-1012,2026-11-02 04:38:00,TRK-104,David Zimmerman,I80-ST-034,Petro - Exit 348 - Henderson / Bradshaw (NE),563.2,109.32,3.11
+WEX-202611-1013,2026-11-02 14:59:00,TRK-105,Taras Shevchenko,I80-ST-012,Love's - Exit 284 - Walcott (I-80 Truckstop) (IA),173.0,85.25,3.1
+WEX-202611-1014,2026-11-02 17:59:00,TRK-106,Robert Kowalski,I80-ST-015,Sapp Bros - Exit 225 - Williamsburg / US-151 (IA),232.0,153.39,3.43
+WEX-202611-1015,2026-11-03 00:31:00,TRK-107,Marcus Johnson,I80-ST-040,Sapp Bros - Exit 211 - Gothenburg / NE-47 (NE),699.2,135.71,3.38
+WEX-202611-1016,2026-11-03 01:14:00,TRK-108,Dmytro Bondarenko,I80-ST-055,Sapp Bros - Exit 104 - Rock Springs / Elk St (WY),1220.4,107.89,3.86
+WEX-202611-1017,2026-11-03 08:59:00,TRK-101,Oleksandr Kovalenko,I80-ST-027,Love's - Exit 3 - Council Bluffs / S Expressway (IA),454.8,121.79,3.76
+WEX-202611-1018,2026-11-03 10:06:00,TRK-102,Michael Miller,I80-ST-018,TA - Exit 164 - Newton / IA-14 (IA),293.2,110.46,3.43
+WEX-202611-1019,2026-11-03 14:01:00,TRK-103,Carlos Rodriguez,I80-ST-026,Pilot - Exit 34 - Shelby / IA-168 (IA),423.4,148.18,3.06
+WEX-202611-1020,2026-11-03 17:41:00,TRK-104,David Zimmerman,I80-ST-001,Pilot - Exit 148 - Joliet / IL-53 (IL),14.2,65.36,4.22
+WEX-202611-1021,2026-11-03 22:28:00,TRK-105,Taras Shevchenko,I80-ST-013,TA - Exit 259 - West Liberty / IA-38 (IA),198.4,142.81,3.48
+WEX-202611-1022,2026-11-03 23:25:00,TRK-106,Robert Kowalski,I80-ST-008,Petro - Exit 33 - Annawan / IL-78 (IL),126.0,81.45,3.91
+WEX-202611-1023,2026-11-04 01:28:00,TRK-107,Marcus Johnson,I80-ST-004,Petro - Exit 101 - Ottawa / IL-23 (IL),61.0,143.97,4.13
+WEX-202611-1024,2026-11-04 05:27:00,TRK-108,Dmytro Bondarenko,I80-ST-043,TA - Exit 126 - Ogallala / NE-61 (NE),784.0,129.24,3.16
+WEX-202611-1025,2026-11-04 06:46:00,TRK-101,Oleksandr Kovalenko,I80-ST-021,Pilot - Exit 114 - Urbandale / Douglas Ave (IA),342.5,70.54,3.51
+WEX-202611-1026,2026-11-04 15:16:00,TRK-102,Michael Miller,I80-ST-037,Love's - Exit 272 - Kearney / NE-44 (NE),638.0,83.18,3.25
+WEX-202611-1027,2026-11-04 16:10:00,TRK-103,Carlos Rodriguez,I80-ST-020,Sapp Bros - Exit 135 - Bondurant / US-65 (IA),321.8,76.06,3.15
+WEX-202611-1028,2026-11-04 19:53:00,TRK-104,David Zimmerman,I80-ST-011,Pilot - Exit 292 - Davenport / Northwest Blvd (IA),165.2,89.29,3.8
+WEX-202611-1029,2026-11-04 20:02:00,TRK-105,Taras Shevchenko,I80-ST-023,TA - Exit 76 - Adair / IA-44 (IA),381.2,123.75,3.49
+WEX-202611-1030,2026-11-04 20:35:00,TRK-106,Robert Kowalski,I80-ST-033,TA - Exit 353 - York / US-81 (NE),556.8,140.29,3.77
+WEX-202611-1031,2026-11-04 20:38:00,TRK-107,Marcus Johnson,I80-ST-058,TA - Exit 6 - Evanston East / Bear River Dr (WY),1318.2,105.54,3.92
+WEX-202611-1032,2026-11-05 18:19:00,TRK-108,Dmytro Bondarenko,I80-ST-005,Pilot - Exit 93 - Utica / IL-178 (IL),67.4,80.11,3.61
+WEX-202611-1033,2026-11-05 20:30:00,TRK-101,Oleksandr Kovalenko,I80-ST-049,Petro - Exit 364 - Cheyenne East / College Dr (WY),959.0,145.82,3.92
+WEX-202611-1034,2026-11-06 00:43:00,TRK-102,Michael Miller,I80-ST-016,Pilot - Exit 201 - Brooklyn / IA-21 (IA),256.4,60.08,3.47
+WEX-202611-1035,2026-11-06 11:06:00,TRK-103,Carlos Rodriguez,I80-ST-035,Sapp Bros - Exit 318 - Grand Island East / US-34 (NE),592.4,118.43,3.73
+WEX-202611-1036,2026-11-06 11:23:00,TRK-104,David Zimmerman,I80-ST-017,Love's - Exit 182 - Grinnell / IA-146 (IA),275.0,137.93,3.5
+WEX-202611-1037,2026-11-06 16:26:00,TRK-105,Taras Shevchenko,I80-ST-024,Petro - Exit 54 - Atlantic / IA-173 (IA),403.5,59.41,3.46
+WEX-202611-1038,2026-11-06 23:33:00,TRK-106,Robert Kowalski,I80-ST-030,Sapp Bros - Exit 420 - Greenwood / Ashland (NE),490.2,88.36,3.48
+WEX-202611-1039,2026-11-07 00:55:00,TRK-107,Marcus Johnson,I80-ST-052,Love's - Exit 215 - Rawlins East / Cedar St (WY),1109.2,68.08,3.93
+WEX-202611-1040,2026-11-07 05:00:00,TRK-108,Dmytro Bondarenko,I80-ST-002,Love's - Exit 140 - Channahon / US-6 (IL),21.8,152.98,3.5
+WEX-202611-1041,2026-11-07 07:16:00,TRK-101,Oleksandr Kovalenko,I80-ST-039,Petro - Exit 222 - Cozad / NE-21 (NE),688.0,71.16,3.37
+WEX-202611-1042,2026-11-07 10:18:00,TRK-102,Michael Miller,I80-ST-009,Pilot - Exit 19 - Geneseo / IL-82 (IL),143.5,99.18,3.98
+WEX-202611-1043,2026-11-07 16:35:00,TRK-103,Carlos Rodriguez,I80-ST-014,Petro - Exit 244 - Coralville / Iowa City (IA),213.6,125.57,3.4
+WEX-202611-1044,2026-11-07 17:48:00,TRK-104,David Zimmerman,I80-ST-044,Petro - Exit 107 - Big Springs / US-138 (NE),803.2,111.09,3.49
+WEX-202611-1045,2026-11-07 20:20:00,TRK-105,Taras Shevchenko,I80-ST-031,Pilot - Exit 395 - Lincoln West / NW 48th St (NE),514.5,66.19,3.65
+WEX-202611-1046,2026-11-07 20:24:00,TRK-106,Robert Kowalski,I80-ST-046,Pilot - Exit 53 - Brownson / US-30 (NE),857.4,149.51,3.13
+WEX-202611-1047,2026-11-07 21:37:00,TRK-107,Marcus Johnson,I80-ST-036,Pilot - Exit 312 - Grand Island West / US-281 (NE),598.6,124.1,3.11
+WEX-202611-1048,2026-11-07 21:46:00,TRK-108,Dmytro Bondarenko,I80-ST-038,TA - Exit 237 - Lexington / US-283 (NE),673.5,69.91,3.32
+WEX-202611-1049,2026-11-08 00:35:00,TRK-101,Oleksandr Kovalenko,I80-ST-019,Petro - Exit 142 - Altoona / Des Moines East (IA),315.0,58.6,3.78
+WEX-202611-1050,2026-11-08 00:44:00,TRK-102,Michael Miller,I80-ST-042,Love's - Exit 171 - Hershey / Link 56C (NE),739.5,91.92,3.14
